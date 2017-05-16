@@ -1,7 +1,18 @@
-.skel
-=====
+dorking
+=======
 
-This is a skeleton project.  It needs better documentation.
+dorking is a quick bit of experimenting with stacking terrible
+astrophotographs.
+
+I found out that my 300mm telephoto lens was good enough to see
+the moons of Jupiter, and wanted to do a bit better job of it.
+After the first bit of experimentation, it was clear that I would
+need to use more advanced steps, like stacking.  I tried a few
+of the off-the-shelf things, but they confused the everloving
+crap out of me, so I decided to quickly slap something together,
+just to see what I could see.
+
+This is that.
 
 Contents:
 
