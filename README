@@ -1,6 +1,15 @@
 dorking
 =======
 
+>  The Dorking is one of the most ancient of all domesticated
+>  poultry. Believed to have originated in Italy at the time
+>  of the Roman Empire and were taken as far as Britain when
+>  they invaded in as early as 55 BC. The Dorking was also
+>  described by the Roman writer Columella in his treatise
+>  "Of Husbandry in Twelve Books."
+>   -- http://www.backyardchickens.com/products/dorking
+
+
 dorking is a quick bit of experimenting with stacking terrible
 astrophotographs.
 
@@ -16,5 +25,4 @@ This is that.
 
 Contents:
 
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
+code/ -- A bunch of ipython/jupyter notebooks.
